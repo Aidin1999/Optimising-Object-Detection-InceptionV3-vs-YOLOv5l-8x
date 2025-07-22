@@ -1,6 +1,6 @@
 # Optimising Object Detection: InceptionV3 vs YOLOv5/YOLOv8x
 
-Hi,I’m **Aidin Miralmasi**, a data scientist and AI engineer passionate about computer vision, cloud-based pipelines, and real-world applications of machine learning. This project is a hands-on demonstration of how deep learning models behave under different architectures and preprocessing workflows., and this project is focused on evaluating the performance of different object detection models—specifically **InceptionV3** and **YOLOv5/YOLOv8x**—for detecting people in diverse image conditions.
+Hi,I’m **Aidin Miralmasi**, a data scientist and AI engineer passionate about computer vision, cloud-based pipelines, and real-world applications of machine learning. This project is a hands-on demonstration of how deep learning models behave under different architectures and preprocessing workflows., and this project is focused on evaluating the performance of different object detection models—specifically **InceptionV3** and **YOLOv5/YOLOv8x**  for detecting people in diverse image conditions.
 
 The objective is to compare classical CNN-based architectures (InceptionV3) against state-of-the-art real-time detectors (YOLOv5/8x) in terms of accuracy, speed, and generalisation, using a consistent and well-augmented dataset.
 
